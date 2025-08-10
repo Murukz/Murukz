@@ -1,4 +1,12 @@
-Murunwa Matshaya Here
 
+Murunwa Matshaya Here
+Welcome to my Git profile! ✨
+<--
 - 🔭 I’m currently working on getting that degree...
 - trying to follow the steps needed to complete practical assignment one of organisational informatics 244
+
+- 🔭 I’m currently working on getting my undergrad degree...
+- 🌱 I’m currently learning how to code in JavaScript...
+- 📫 How to reach me: Matshayamurukz@gmail.com ...
+-->
+
